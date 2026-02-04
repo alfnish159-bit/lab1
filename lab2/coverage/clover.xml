@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1770223728013" clover="3.2.0">
+  <project timestamp="1770223728013" name="All files">
+    <metrics statements="16" coveredstatements="15" conditionals="19" coveredconditionals="17" methods="2" coveredmethods="2" elements="37" coveredelements="34" complexity="0" loc="16" ncloc="16" packages="1" files="1" classes="1"/>
+    <file name="smartHeatingController.js" path="/Users/kirillkoshlatyi/Desktop/Study/3 КУРС 2 СЕМ/АТБП/lab2/smartHeatingController.js">
+      <metrics statements="16" coveredstatements="15" conditionals="19" coveredconditionals="17" methods="2" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="20" count="9" type="cond" truecount="1" falsecount="1"/>
+      <line num="21" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="8" type="cond" truecount="3" falsecount="1"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="26" count="8" type="stmt"/>
+      <line num="30" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="35" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="3" type="stmt"/>
+      <line num="37" count="3" type="stmt"/>
+      <line num="40" count="5" type="stmt"/>
+      <line num="41" count="4" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
